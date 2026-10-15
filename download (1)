@@ -1,0 +1,11 @@
+.test-cache/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.rbxl
+*.rbxlx
+*.blend
+*.blend1
+.env
+.env.*
